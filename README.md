@@ -1,6 +1,6 @@
 <h1>Hi There! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-branco-nf)](www.linkedin.com/in/thiago-branco-nf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=//www.linkedin.com/in/thiago-branco-nf/)](//www.linkedin.com/in/thiago-branco-nf/)
 [![Personal Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://thiagobranconf.github.io/Portfolio-Thiago/)](https://thiagobranconf.github.io/Portfolio-Thiago/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobranconf@gmail.com)](mailto:thiagobranconf@gmail.com)
 
