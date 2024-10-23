@@ -9,5 +9,7 @@
 - 🎓 Software Enginner Student @[Estacio](https://estacio.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
-  
+
+<div align="left">
 [![Thiago top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobranconf&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+<div/>
