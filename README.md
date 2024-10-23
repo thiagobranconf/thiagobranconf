@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi There! 👋</h1>
 
-<!--
-**thiagobranconf/thiagobranconf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiago-branco-nf)](www.linkedin.com/in/thiago-branco-nf)
+[![Personal Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://thiagobranconf.github.io/Portfolio-Thiago/)](https://thiagobranconf.github.io/Portfolio-Thiago/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobranconf@gmail.com)](mailto:thiagobranconf@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Thiago Branco
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
+- 🎓 Software Enginner Student @[Estacio](https://estacio.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+  
+[![Thiago top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobranconf&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
