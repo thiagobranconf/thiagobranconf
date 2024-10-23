@@ -4,10 +4,11 @@
 [![Personal Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://thiagobranconf.github.io/Portfolio-Thiago/)](https://thiagobranconf.github.io/Portfolio-Thiago/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobranconf@gmail.com)](mailto:thiagobranconf@gmail.com)
 
-<img align="right" alt="Code Boy image" src="./Coding.avif"  width="300px"/>
+<img align="right" alt="Code Boy image" src="./Coding.avif"  width="310px"/>
 
 ## My name is Thiago Branco
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
+
 - 🎓 Software Enginner Student @[Estacio](https://estacio.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
